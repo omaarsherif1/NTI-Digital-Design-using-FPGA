@@ -6,8 +6,8 @@
   - [x] Behavioral
 
 ## Task
-- [ ] **Mux 4-to-1**
-  - [ ] Gate-level
-  - [ ] Structural
-  - [ ] Data Flow
-  - [ ] Behavioral
+- [x] **Mux 4-to-1**
+  - [x] Gate-level
+  - [x] Structural
+  - [x] Data Flow
+  - [x] Behavioral
