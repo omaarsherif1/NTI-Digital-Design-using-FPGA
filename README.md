@@ -1,5 +1,9 @@
 # NTI-Digital-Design-using-FPGA
 NTI materials in DIgital Design using Verilog HDL
+
+# In Session Task: Rising Edge Detector
+- Behavioral Modeling
+  
 # Task: Sequence Detector
 
 ## 1. Non-Overlapping
