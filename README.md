@@ -2,8 +2,8 @@
 NTI materials in DIgital Design using Verilog HDL
 # Single Perceptron AI Hardware Accelerator
 
-![Perceptron Top-Level Schematic](Screenshot2026-08-13144934.png)
-![Perceptron Layer Schematic](Screenshot2026-08-13145814.png)
+![Perceptron Top-Level Schematic](Images/Screenshot%202026-08-13%20144934.png)
+![Perceptron Layer Schematic](Images/Screenshot%202026-08-13%20145814.png)
 
 ## Overview
 
